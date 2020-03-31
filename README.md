@@ -6,4 +6,4 @@ Andy Nguyen (ShinyShips),
 Dominic Ortiz (domortiz)
 
 Design Document:
-https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/DESIGN.md
+https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/Design%20Milestone.pdf
