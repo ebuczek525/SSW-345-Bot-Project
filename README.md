@@ -13,3 +13,6 @@ https://app.slack.com/client/T011PAWAJRJ/C011PAWB5UL
 
 Trello:
 https://trello.com/b/82UEWTka/ssw-345-bot
+
+Jira:
+https://stevens-345-bot.atlassian.net/secure/RapidBoard.jspa?rapidView=1
