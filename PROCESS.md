@@ -5,6 +5,9 @@ In your markdown, include:
 
 **⦁	Documentation on story creation and assignment at EACH iteration (one option is to include screenshots of kanban board).**
 ![Kanban Board 04/08/20](https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/345_bot_board.PNG)
+
+*Need new image ^*
+
 **⦁	Any scrum meeting notes.**
 
 **⦁	Include documentation of EACH iteration end. Include status of completed and incomplete tasks, and a process reflection.**
