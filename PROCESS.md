@@ -10,7 +10,7 @@ In your markdown, include:
 
 **⦁	Any scrum meeting notes.**
 
-4/8/20
+*4/8/20*
 
 Created Github Project Board
 
@@ -28,6 +28,7 @@ Created Tasks:
 
 
 **⦁	Include documentation of EACH iteration end. Include status of completed and incomplete tasks, and a process reflection.**
+
 *04/08/20*
 
 To do: Congratulate user on task creation (8), Add a task reminder (3)
