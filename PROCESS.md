@@ -24,13 +24,13 @@ Created Tasks:
   - Congratulate user on task creation (8) 
   - Add a task reminder (3)
   - Add a productivity goal (5) 
-  - Find out how to assign point values to Trello taks (5)
+  - Find out how to assign point values to Trello/Jira taks (5)
 
 
 **⦁	Include documentation of EACH iteration end. Include status of completed and incomplete tasks, and a process reflection.**
 
 To do: Congratulate user on task creation (8), Add a task reminder (3)
 
-In Progress: Add a productivity goal (5), Find out how to assign point values to Trello taks (5)
+In Progress: Add a productivity goal (5), Find out how to assign point values to Trello/Jira taks (5)
 
 Reflection:
