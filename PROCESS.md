@@ -28,6 +28,7 @@ Created Tasks:
 
 
 **⦁	Include documentation of EACH iteration end. Include status of completed and incomplete tasks, and a process reflection.**
+*04/08/20*
 
 To do: Congratulate user on task creation (8), Add a task reminder (3)
 
@@ -35,4 +36,4 @@ In Progress: Add a productivity goal (5),
 
 Complete: Find out how to assign point values to Trello/Jira taks (5)
 
-Reflection: 04/08/20 Up to this point, our process has been fairly simple as we have not yet started the code implementation of the project yet. We have simply been documenting our project management process (using GitHub) through this process document. We have so far included screenshots of our Kanban board progress, as well as some meeting notes and iteration progress. So far, we have completed just one iteration for this project phase, which is the process phase. 
+Reflection: Up to this point, our process has been fairly simple as we have not yet started the code implementation of the project yet. We have simply been documenting our project management process (using GitHub) through this process document. We have so far included screenshots of our Kanban board progress, as well as some meeting notes and iteration progress. So far, we have completed just one iteration for this project phase, which is the process phase. 
