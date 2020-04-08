@@ -6,7 +6,6 @@ In your markdown, include:
 **⦁	Documentation on story creation and assignment at EACH iteration (one option is to include screenshots of kanban board).**
 ![Kanban Board 04/08/20](https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/2020-04-08%2013_09_45-Bot%20Project.png)
 
-*Need new image ^*
 
 **⦁	Any scrum meeting notes.**
 
@@ -31,6 +30,8 @@ Created Tasks:
 
 To do: Congratulate user on task creation (8), Add a task reminder (3)
 
-In Progress: Add a productivity goal (5), Find out how to assign point values to Trello/Jira taks (5)
+In Progress: Add a productivity goal (5), 
+
+Complete: Find out how to assign point values to Trello/Jira taks (5)
 
 Reflection:
