@@ -10,7 +10,7 @@ In your markdown, include:
 
 **⦁	Any scrum meeting notes.**
 
-*4/8/20*
+*04/08/20*
 
 Created Github Project Board
 
