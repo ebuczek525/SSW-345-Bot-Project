@@ -7,3 +7,9 @@ Dominic Ortiz (domortiz)
 
 Design Document:
 https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/Design%20Milestone.pdf
+
+Slack:
+https://app.slack.com/client/T011PAWAJRJ/C011PAWB5UL
+
+Trello:
+https://trello.com/b/82UEWTka/ssw-345-bot
