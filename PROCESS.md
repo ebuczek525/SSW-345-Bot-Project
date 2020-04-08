@@ -16,6 +16,8 @@ Created Github Project Board
 
 Created Trello Board
 
+Created Jira Board
+
 Created Team Slack
 
 Created Tasks:
