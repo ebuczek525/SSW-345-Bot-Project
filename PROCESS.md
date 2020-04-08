@@ -8,3 +8,7 @@ In your markdown, include:
 ⦁	Any scrum meeting notes.
 
 ⦁	Include documentation of EACH iteration end. Include status of completed and incomplete tasks, and a process reflection.
+
+To do: Congratulate user on task creation (8), Add a task reminder (3)
+
+In Progress: Add a productivity goal (5)
