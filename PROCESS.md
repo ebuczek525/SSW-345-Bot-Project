@@ -11,9 +11,13 @@ In your markdown, include:
 **⦁	Any scrum meeting notes.**
 
 4/8/20
+
 Created Github Project Board
+
 Created Trello Board
+
 Created Team Slack
+
 Created Tasks:
   - Congratulate user on task creation (8) 
   - Add a task reminder (3)
