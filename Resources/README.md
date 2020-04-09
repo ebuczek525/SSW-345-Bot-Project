@@ -7,3 +7,7 @@ Andy's Research:
 Erik's Research:
 - https://developer.atlassian.com/server/jira/platform/rest-apis/ (Jira API)
 - https://developer.atlassian.com/cloud/trello/rest/ (Trello API)
+
+Dom's Research:
+- https://developer.atlassian.com/cloud/jira/platform/apis/document/structure/
+- https://developer.atlassian.com/cloud/jira/platform/rest/v3/
