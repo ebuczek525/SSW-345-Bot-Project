@@ -38,3 +38,5 @@ In Progress: Add a productivity goal (5),
 Complete: Find out how to assign point values to Trello/Jira taks (5)
 
 Reflection: Up to this point, our process has been fairly simple as we have not yet started the code implementation of the project yet. We have simply been documenting our project management process (using GitHub) through this process document. We have so far included screenshots of our Kanban board progress, as well as some meeting notes and iteration progress. We have also created workspaces for Slack, Trello, and Jira which we wil use in various parts of our project implementation. So far, we have completed just one iteration for this project phase, which is the process phase. 
+
+*04/19/20*
