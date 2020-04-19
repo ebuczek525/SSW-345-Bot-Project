@@ -1,0 +1,35 @@
+POST https://hooks.slack.com/services/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
+
+{
+
+    "blocks": [
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": ":male-construction-worker: :female-construction-worker: Hey [USER NAME HERE]! Don't you have a Jira task to do? :female-construction-worker: :male-construction-worker:"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "<https://stevens-345-bot.atlassian.net/secure/RapidBoard.jspa?rapidView=1&modal=detail&selectedIssue=BOT-1|[JIRA TASK NAME HERE]>"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Story Points:*\n[X STORY POINTS HERE]"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Due Date:*\n[DUE DATE HERE]"
+            }
+        }
+    ]
+}
