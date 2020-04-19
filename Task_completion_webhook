@@ -1,0 +1,33 @@
+{
+
+    "blocks": [
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": ":confetti_ball: Hey [USER NAME HERE]! Congrats on completing a Jira task! :confetti_ball:"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Task:*\n<https://stevens-345-bot.atlassian.net/secure/RapidBoard.jspa?rapidView=1&modal=detail&selectedIssue=BOT-1|[JIRA TASK NAME HERE]>"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Current User Points:*\n[X USER POINTS HERE] (+Y)"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Productivity Goal Progress:*\n[Z/Z PROGRESS HERE]"
+            }
+        }
+    ]
+}
