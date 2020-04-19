@@ -12,7 +12,7 @@
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": "<https://stevens-345-bot.atlassian.net/secure/RapidBoard.jspa?rapidView=1&modal=detail&selectedIssue=BOT-1|[JIRA TASK NAME HERE]>"
+                "text": "*Task:*\n<https://stevens-345-bot.atlassian.net/secure/RapidBoard.jspa?rapidView=1&modal=detail&selectedIssue=BOT-1|[JIRA TASK NAME HERE]>"
             }
         },
         {
