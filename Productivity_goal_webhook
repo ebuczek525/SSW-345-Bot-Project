@@ -1,0 +1,40 @@
+{
+
+    "blocks": [
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": ":muscle: Hey [USER NAME HERE]! Please see your productivity goal below! :muscle:"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Current Goal:*\n[X POINTS PER Y FREQUENCY]"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Average Task Value:*\n[Z POINTS HERE]"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Available Tasks:*\n[TASK LIST HERE]"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Suggested Pace:*\n[X POINTS PER Y FREQUENCY]"
+            }
+        }
+    ]
+}
