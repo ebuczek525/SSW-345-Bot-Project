@@ -1,10 +1,11 @@
 **⦁	Documentation on story creation and assignment at EACH iteration (one option is to include screenshots of kanban board).**
-![Kanban Board 04/08/20-2](https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/2020-04-08%2013_09_45-Bot%20Project.png)
+*S1: 04/08/20*
+(https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/2020-04-08%2013_09_45-Bot%20Project.png)
 
 
 **⦁	Scrum meeting notes.**
 
-*04/08/20*
+*M1: 04/08/20*
 
 Created Github Project Board
 
