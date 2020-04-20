@@ -2,7 +2,7 @@
 *S1: 04/08/20*
 ![Kanban Board 04/08/20](https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/2020-04-08%2013_09_45-Bot%20Project.png)
 *S2: 04/19/20*
-![Kanban Board 04/19/20](https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/)
+![Kanban Board 04/19/20](https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/345_bot_kanban_s2.PNG)
 
 **⦁	Scrum meeting notes.**
 
