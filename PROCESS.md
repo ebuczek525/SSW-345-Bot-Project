@@ -4,7 +4,6 @@ Create a markdown file, PROCESS.md, which provides the necessary documentation t
 In your markdown, include:
 
 **⦁	Documentation on story creation and assignment at EACH iteration (one option is to include screenshots of kanban board).**
-![Kanban Board 04/08/20-1](https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/345_bot_board.PNG)
 ![Kanban Board 04/08/20-2](https://github.com/ebuczek525/SSW-345-Bot-Project/blob/master/2020-04-08%2013_09_45-Bot%20Project.png)
 
 
