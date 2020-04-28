@@ -1,11 +1,16 @@
 ﻿SSW345 HW5 Reflection
 Dominic Ortiz 
+
 Over the past two milestones, you've had the opportunity to apply several software engineering practices and processes in the design and implementation of a bot project.
+
 Design
 I think creating the design sketches was the most helpful part of the design process because it helped us to imagine how the user and all of the components would interact with each other in a given scenario. The most difficult part may have been the architecture design because it made us think about how the backend would function. I think I would do all of this again from problem statement to use cases and design sketched because it helps you to focus on the core function that you want to achieve with the project and then visualize it before beginning development. 
+
 Implementation
 Although implementation, testing, and integration will not be completed on our bot this phase was helpful for researching and figuring out how to integrate the different software applications we were utilizing in order to make our bot effective. These are things that will be useful for all of us going forward towards future projects and into the workforce so I’m glad we were able to do some technical research on it. 
+
 Process
 What was most helpful about implementing kanban and code reviews was that it helped us to visualize the goals we each wanted to achieve and collaboratively work together to achieve them. The most difficult part was probably the code reviews because it is always an adjustment to read other people’s code when you are used to doing this in your own structure . I plan on using all of these practices going forward as they are heavily utilized in the work sector and help teams to become more efficient and cohesive. 
+
 Overall
 Overall I think that all of these practices are extremely beneficial to the development of ourselves as software engineers because they give us real practice working collaboratively on a team in an agile workload. The design process was crucial for defining the scope of our bot and visualizing how we wanted it to be constructed. The process milestone was helpful for development because it allowed us to communicate and document how we would distribute the workload while not being able to work in the same location or even at the same times.
