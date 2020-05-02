@@ -18,3 +18,4 @@ Jira:
 https://stevens-345-bot.atlassian.net/secure/RapidBoard.jspa?rapidView=1
 
 **Note: Need to Change Slack command + redirect URL to current ngrok url**
+**cmd (ngrok install directory) ngrok http PORT**
