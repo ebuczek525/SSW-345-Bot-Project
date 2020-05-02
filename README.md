@@ -16,3 +16,5 @@ https://trello.com/b/82UEWTka/ssw-345-bot
 
 Jira:
 https://stevens-345-bot.atlassian.net/secure/RapidBoard.jspa?rapidView=1
+
+**Note: Need to Change Slack command + redirect URL to current ngrok url**
