@@ -21,4 +21,4 @@ https://stevens-345-bot.atlassian.net/secure/RapidBoard.jspa?rapidView=1
 
 **cmd (ngrok install directory) ngrok http PORT**
 
-**JSDOC for jire-connector commands, in my downloads directory**
+**JSDOC for jire-connector commands**
