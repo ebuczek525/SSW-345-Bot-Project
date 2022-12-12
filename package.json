@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jira-connector": "^3.1.0",
     "mongodb": "^3.5.4",
     "mongoose": "^5.9.11",
